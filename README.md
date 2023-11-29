@@ -1,8 +1,15 @@
 # www_Tuan5
 DemoPaging
-Diagram
+# Mô tả
+- Dự án demo phân trang bằng srping boot.
+- Cơ sở dữ liệu lưu trữ mariadb kết nối qua cổng 3306.
+- Tạo giao diện bằng file .html.
+
+# Sở đồ cơ sở dữ liệu
 
 ![image](https://github.com/phonggg78/www_Tuan5/assets/98084407/88af6c12-0597-4b5f-bb88-91f863d7be88)
+
+# Chức năng
 
 Không sử dụng phân trang
 
